@@ -214,7 +214,7 @@ py-lg{
 }
 
 
-@media (max-width: 768px){
+@media (max-width: 720px){
     .hamburger{
         display: block;
     }
@@ -233,7 +233,7 @@ py-lg{
 
 @media(max-width:960px){
     .text-md{
-        font-size: 17px;
+        font-size: 15px;
     }
 }
 
