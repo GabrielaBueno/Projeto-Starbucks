@@ -111,9 +111,6 @@ img{
     color: #d4e9e2;
 }
 
-/*--------------------------------------imagem -----------------------------*/
-
-
 /*---------------------Caixa --------------*/
 box{
     margin-bottom: 30px;
@@ -195,6 +192,7 @@ py-lg{
 .hamburger-bottom{
     transform: translateY(12px);
 }
+
 /*mobile*/
 .mobile-menu{
     position: fixed;
