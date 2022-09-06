@@ -4,3 +4,5 @@ O projeto Starbucks visa o aperfeiçoamento e implementação das linguagens HTM
 
 Link de acesso - https://www.starbucks.com.br/home
 
+Parceiro- Leonardo Gabriel Ferreira Sato
+
