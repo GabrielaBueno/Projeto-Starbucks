@@ -4,5 +4,7 @@ O projeto Starbucks visa o aperfeiçoamento e implementação das linguagens HTM
 
 Link de acesso - https://www.starbucks.com.br/home
 
+Nosso link de acesso utilizando Github Page - https://gabrielabueno.github.io/Projeto-Starbucks/
+
 Parceria- Leonardo Gabriel Ferreira Sato
 
